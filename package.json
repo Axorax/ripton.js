@@ -1,0 +1,24 @@
+{
+  "name": "ripton",
+  "version": "1.0.1",
+  "description": "Create ripple effect for your buttons!",
+  "main": "ripton.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/ripton.js.git"
+  },
+  "type": "module",
+  "keywords": [
+    "ripton",
+    "ripple-effect",
+    "ripple-button",
+    "button-ripple",
+    "ripple-btn"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/ripton.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/ripton.js#readme"
+}
